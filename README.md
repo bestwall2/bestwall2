@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/bestwall2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bestwall2" height="30" width="40" /></a>
-<a href="https://fb.com/mrpain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrpain" height="30" width="40" /></a>
-<a href="https://instagram.com/mrpainfive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrpainfive" height="30" width="40" /></a>
+<a href="https://dev.to/mrpain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrpain" height="30" width="40" /></a>
+<a href="https://fb.com/MrPain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrpain" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_pain_five" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrpainfive" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
