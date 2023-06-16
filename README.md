@@ -9,13 +9,13 @@
 
 - 📫 Let's connect and collaborate!Feel free to reach out for **project collaborations or interesting discussions. 📫**
 
-- 👨‍💻 All of my projects are available at [https://www.facebook.com/Mr12PAIN?mibextid=ZbWKwL](https://www.facebook.com/Mr12PAIN?mibextid=ZbWKwL)
+- 👨‍💻 All of my projects are available in Github
 
 - 💬 Ask me about **My Name , What I can Do**
 
 - 📫 How to reach me **ahmed.dikha26@gmail.com**
 
-- ⚡ Fun fact **I think i am not asocial**
+- ⚡ Fun fact **I think i am not a social**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
